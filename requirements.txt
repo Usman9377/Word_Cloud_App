@@ -1,6 +1,7 @@
-matplotlib==3.11.0
-pandas==3.0.3
-PyPDF2==3.0.1
-python_docx==1.2.0
-streamlit==1.53.1
-wordcloud==1.9.6
+streamlit
+wordcloud
+matplotlib==3.10.8
+pandas
+numpy
+PyPDF2
+python-docx
